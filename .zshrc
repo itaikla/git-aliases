@@ -18,5 +18,3 @@ alias gco2="git checkout @{-2}"
 alias gco3="git checkout @{-3}"
 alias gap="git cherry-pick "
 alias gcom="git checkout master -- "
-
-alias cicd="git commit --allow-empty -m 'Run tests #CICD' -n && git push"
